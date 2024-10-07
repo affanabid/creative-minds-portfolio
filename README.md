@@ -38,24 +38,24 @@ The **Creative Minds** portfolio website aims to highlight the services and port
    ```bash
    open index.html
 
-# Git Workflow
+## Git Workflow
 
-## Branches
+### Branches
 
-### Kashaf's Branch:
+#### Kashaf's Branch:
 - Handled styling (CSS, SCSS) and images.
 - Added Bootstrap and customized SCSS files for form elements and buttons.
 
-### Affan's Branch:
+#### Affan's Branch:
 - Developed the main structure of the website (HTML).
 - Added JavaScript for smooth scrolling, slider transitions, and form validation.
 - Included performance optimizations and added external libraries.
 
-## Merging Process
-1. Each member worked on their branch and submitted pull requests for merging into the main branch.
-2. Conflicts were resolved by carefully reviewing changes and ensuring consistency.
+### Merging Process
+- Each member worked on their branch and submitted pull requests for merging into the main branch.
+- Conflicts were resolved by carefully reviewing changes and ensuring consistency.
 
-## Pulling Updates
+### Pulling Updates
 1. Regularly pulled updates from the main branch to keep the local repository in sync:
    ```bash
    git pull origin main
